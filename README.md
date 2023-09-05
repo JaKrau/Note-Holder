@@ -16,7 +16,7 @@ The site features three nav items, use these or scroll down to view all content.
   
    ![site screenshot](/public/assets/images/noteApp.png?raw=true "screenshot")
    
-Link to deployed site: [https://jakrau.github.io/Note-Holder/](https://note-holder-9eff4353cfdb.herokuapp.com/)
+Link to deployed site: [[https://note-holder-9eff4353cfdb.herokuapp.com/](https://note-holder-9eff4353cfdb.herokuapp.com/)]
 
 ## Credits
 
